@@ -1,0 +1,15 @@
+.field-container {
+  width: 600px;
+  height: 600px;
+  background-color: #a955c1;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+}
+.line{
+  position: absolute;
+  width: 20px;
+  height: 600px;
+  background-color: #af3d38;
+  border-radius: 50px;
+}
